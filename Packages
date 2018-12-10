@@ -25,8 +25,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 126374
-MD5sum: d877f48293ada84220b766873fe837e1
+Size: 126320
+MD5sum: aa3b04365bdfe7116a86b22f5eea1b3e
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
